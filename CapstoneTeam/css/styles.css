@@ -1,0 +1,65 @@
+/* Navigation Bar */
+.nav-pills .nav-link{
+  color: black;
+}
+
+.nav-pills .nav-link:hover {
+  background-color: #e0ffb2 !important;
+  color: black;
+}
+
+
+/* Google Maps */
+gmp-map {
+  height: 100%;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+
+/* .container.marketing {
+  background-color: #e0ffb2;
+} */
+
+/* .row.text-center > div:nth-child(1) {
+  background-color: #6c8e68;
+}
+
+.row.text-center > div:nth-child(2) {
+  background-color: #6c8e68;
+}
+.row.text-center > div:nth-child(3) {
+  background-color: #6c8e68;
+} */
+
+.custom-orange-btn {
+  background-color: #6c8e68;
+  border-color: black;
+  color: black;
+}
+
+body {
+  background-color: #fff0d3;
+}
+
+/* inventory table */
+.table thead th{
+  background-color: #6c8e68;
+}
+
+.table thead th a{
+  color: black;
+}
+
+.table {
+  border: 1px solid black;
+}
+
+.loginheading {
+  text-align: center;
+}

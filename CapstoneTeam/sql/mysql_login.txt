@@ -1,0 +1,1 @@
+mysql -h db.luddy.indiana.edu -u i494f23_team21 --password=my+sql=i494f23_team21 -D i494f23_team21
